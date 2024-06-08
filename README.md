@@ -38,6 +38,11 @@
 
 <br/> 
 
+## Demo
+https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/d537d627-c0da-43ca-85df-f0062cd364f2
+
+<br/>
+
 ## Technologies Used 🛠️
 - 📊 Data Analysis : Kaggle, Excel, Microsoft SQL Server, JSON for data preprocessing and cleaning.
 - 🛢️ Database : Firebase Firestore for real-time data synchronization, Firebase Authentication, Firebase Storage.
