@@ -36,6 +36,17 @@
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Discover     |     Who Replied     |     Who Reacted     |     Director     |     Delete Account     |
 
+<br/> 
+
+## Technologies Used 🛠️
+- 📊 Data Analysis : Kaggle, Excel, Microsoft SQL Server, JSON for data preprocessing and cleaning.
+- 🛢️ Database : Firebase Firestore for real-time data synchronization, Firebase Authentication, Firebase Storage.
+- 💻 Front-End : Kotlin
+- 🖌️ UI Framework : XML Layouts
+- 📚 Libraries : Glide for loading images from URLs, Lottie for animations, Image Picker for selecting images.
+
+<br/> 
+
 ## Architecture 🗼
 This app uses [***MVC (Model View Controller)***](https://developer.android.com/topic/architecture) architecture.
 
