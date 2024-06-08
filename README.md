@@ -1,10 +1,10 @@
 <div align="center">
-      <h2> 
+      <h1> 
             <img src="https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/6d0ad20f-c9e2-41c5-b0a3-145c247c8117" width="150px">
             <br/>
             MSG - Movies Series Galaxy
           <br/>
-        </h2>
+        </h1>
 </div>
 
 <br/>
