@@ -3,7 +3,7 @@
 
 <br/>
 
-![AI QR Magic - Feature graphic](https://github.com/achelmasoudi/AI_QR_Magic/assets/154275618/44e7c0ae-3503-4051-ac8e-8b2f359af00d)
+![Feature graphic](https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/f0e2677a-c439-4854-803b-0d6a2a0a32c9)
 
 <br/> 
 
