@@ -1,11 +1,5 @@
-<div align="center">
-      <h1> 
-            <img src="https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/6d0ad20f-c9e2-41c5-b0a3-145c247c8117" width="150px">
-            <br/>
-            MSG - Movies Series Galaxy
-          <br/>
-        </h1>
-</div>
+# MSG - Movies Series Galaxy 
+🎬 MSG - Movies Series Galaxy is a mobile application developed with Kotlin for Android, designed to provide users with comprehensive information about movies and series. The app allows users to add their favorite movies and series to personalized lists, leave reviews, and interact with other users, all through a user-friendly interface and interactive features. *Made with love ❤️ by [Achraf El masoudi](https://www.linkedin.com/in/achelmasoudi)*
 
 <br/>
 
