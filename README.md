@@ -5,16 +5,17 @@ MSG - Movies Series Galaxy is a mobile application developed with Kotlin for And
 
 <br/> 
 
-<h3>🌟 Welcome to AI QR Magic, where every code tells a unique story.</h3>
+<h3>🌟 Welcome to MSG - Movies Series Galaxy, where every movie or serie reveals a unique tale.</h3>
   
-- Generate, Customize, Scan, Save, and Download QR codes effortlessly.
-- Create multiple QR code types for various adventures.
-- Customize your codes with a splash of colors.
-- Easily scan QR codes from your camera or gallery.
-- Save your QR codes for convenient sharing.
-- Switch between light and dark modes to set the mood for your QR code journey.
+- Explore an extensive database of movies and series.
+- Curate personalized lists featuring your favorite movies and series.
+- Leave insightful reviews and ratings, and engage with fellow enthusiasts through comments and replies.
+- React to movies and series with likes and other reactions.
+- Watch trailers to get a sneak peek of upcoming films and series.
+- Download or share posters of your favorite movies and series.
+- Experience seamless navigation with our user-friendly interface.
 
-<h3>🚀 Ready to explore the QR Universe? Download the app now and let the adventure begin!</h3>
+<h3>🎬🚀 Ready to embark on your cinematic journey? Download the app now and let the storytelling begin!</h3>
 </div>
 
 <br/> 
@@ -37,5 +38,10 @@ MSG - Movies Series Galaxy is a mobile application developed with Kotlin for And
 This app uses [***MVC (Model View Controller)***](https://developer.android.com/topic/architecture) architecture.
 
 ![](https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/3fa5f0bc-4bff-4674-8027-ef4ef9b97fe0)
+ 
+### Also
+[***Singleton***](https://www.geeksforgeeks.org/singleton-design-pattern) : Ensures only one instance of a class is created, providing global access throughout the application.
 
-Also [***Memento***](https://en.wikipedia.org/wiki/Memento_pattern) and [***Command***](https://en.wikipedia.org/wiki/Command_pattern) pattern are use to make text editor.
+[***Observer***](https://www.geeksforgeeks.org/observer-pattern-set-1-introduction) : Facilitates real-time updates by notifying multiple components when the state of an object changes.
+
+[***Factory method***](https://www.geeksforgeeks.org/factory-method-for-designing-pattern) : Creates objects without specifying their exact class, enhancing flexibility and maintainability of the application's codebase.
