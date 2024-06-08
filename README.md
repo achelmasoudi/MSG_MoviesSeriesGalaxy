@@ -32,3 +32,10 @@ MSG - Movies Series Galaxy is a mobile application developed with Kotlin for And
 | <img src="https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/d413e41b-0c6a-48df-a4d4-e81bb7bf1722" width="250"/>| <img src="https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/87f91944-66c9-451f-ac3a-1e8a91b1dc17" width="250"/> | <img src="https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/d0800ac5-b560-47c8-ad46-455c4cf3b34c" width="250"/> | <img src="https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/4e6481da-e2d8-4a74-b91d-2c3f3ab031ab" width="250"/> | <img src="https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/68da3b2b-4ed3-43f0-80c8-721187e7503c" width="250"/> |
 | :-------------: | :-------------:  | :-------------:  | :-------------:  | :-------------:  |
 |     Discover     |     Who Replied     |     Who Reacted     |     Director     |     Delete Account     |
+
+## Architecture 🗼
+This app uses [***MVC (Model View Controller)***](https://developer.android.com/topic/architecture) architecture.
+
+![](https://github.com/achelmasoudi/MSG_MoviesSeriesGalaxy/assets/154275618/3fa5f0bc-4bff-4674-8027-ef4ef9b97fe0)
+
+Also [***Memento***](https://en.wikipedia.org/wiki/Memento_pattern) and [***Command***](https://en.wikipedia.org/wiki/Command_pattern) pattern are use to make text editor.
