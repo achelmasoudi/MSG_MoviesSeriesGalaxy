@@ -56,4 +56,13 @@
         <item name="android:windowDisablePreview">true</item>
         <item name="android:statusBarColor">@color/color_ofBackground</item>
     </style>
+
+
+    <!-- Style of Toolbar-->
+    <style name="styleOfToolbar" >
+        <item name="android:textSize">21sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:fontFamily">@font/kollektif</item>
+        <item name="singleLine">true</item>
+    </style>
 </resources>

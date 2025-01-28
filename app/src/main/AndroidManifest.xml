@@ -20,9 +20,13 @@
         android:theme="@style/Theme.MSG"
         tools:targetApi="31">
         <activity
-            android:name=".MVCOfViewAll.ViewAllActivity"
+            android:name=".SettingsActivity"
             android:screenOrientation="portrait"
             android:exported="false" />
+        <activity
+            android:name=".MVCOfViewAll.ViewAllActivity"
+            android:exported="false"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".MVCOfComments_Reply.ReplyActivity"
             android:exported="false"

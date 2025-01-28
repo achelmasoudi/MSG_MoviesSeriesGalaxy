@@ -37,7 +37,7 @@ class TopRatedMoviesFragment : Fragment() {
         shimmerFrameLayout = view.findViewById(R.id.tablayoutTopRatedMoviesFragment_shimmerFrameLayout)
 
         recyclerViewOfMovies!!.layoutManager = LinearLayoutManager(context)
-        recyclerViewOfMovies!!.setHasFixedSize(true);
+        recyclerViewOfMovies!!.setHasFixedSize(true)
 
         // When the data is loading
         shimmerFrameLayout!!.startShimmer()
